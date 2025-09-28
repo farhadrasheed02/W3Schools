@@ -1,4 +1,7 @@
-import WebDriver
+from selenium import webdriver
 
-driver = WebDriver.Chrome()
+driver = webdriver.Chrome()
 driver.get("http://www.kia.com")
+
+# Your Selenium code here
+driver.quit()
