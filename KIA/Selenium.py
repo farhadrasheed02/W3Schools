@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 driver = webdriver.Chrome()
-driver.get("http://www.kia.com")
+driver.get("https://www.kia.gov.kw/")
 
 # Your Selenium code here
 driver.quit()
