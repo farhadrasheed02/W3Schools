@@ -1,0 +1,10 @@
+num_1 =input("Enter a number: ")
+num_2 =input("Enter another number: ")
+print("The sum of the two numbers is:", int(num_1) + int(num_2))
+print("The difference of the two numbers is:", int(num_1) - int(num_2))
+print("The product of the two numbers is:", int(num_1) * int(num_2))
+print("The quotient of the two numbers is:", int(num_1) / int(num_2))
+print("The floor division of the two numbers is:", int(num_1) // int(num_2))
+print("The modulus of the two numbers is:", int(num_1) % int(num_2))
+print("The exponentiation of the two numbers is:", int(num_1) ** int(num_2))
+
