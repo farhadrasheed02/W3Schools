@@ -1,0 +1,18 @@
+2026-07-20 01:08:23,789 - INFO - Multiplication Table of 5: 0
+2026-07-20 01:08:23,789 - INFO - Continuing the loop at i: 0
+2026-07-20 01:08:23,790 - INFO - Multiplication Table of 5: 5
+2026-07-20 01:08:23,790 - INFO - Continuing the loop at i: 1
+2026-07-20 01:08:23,790 - INFO - Multiplication Table of 5: 10
+2026-07-20 01:08:23,790 - INFO - Continuing the loop at i: 2
+2026-07-20 01:08:23,791 - INFO - Multiplication Table of 5: 15
+2026-07-20 01:08:23,791 - INFO - Continuing the loop at i: 3
+2026-07-20 01:08:23,792 - INFO - Multiplication Table of 5: 20
+2026-07-20 01:08:23,798 - INFO - Continuing the loop at i: 4
+2026-07-20 01:08:23,799 - INFO - Multiplication Table of 5: 25
+2026-07-20 01:08:23,799 - INFO - Continuing the loop at i: 5
+2026-07-20 01:08:23,800 - INFO - Multiplication Table of 5: 30
+2026-07-20 01:08:23,800 - INFO - Continuing the loop at i: 6
+2026-07-20 01:08:23,800 - INFO - Multiplication Table of 5: 35
+2026-07-20 01:08:23,800 - INFO - Continuing the loop at i: 7
+2026-07-20 01:08:23,801 - INFO - Multiplication Table of 5: 40
+2026-07-20 01:08:23,801 - INFO - Breaking the loop at i: 8
