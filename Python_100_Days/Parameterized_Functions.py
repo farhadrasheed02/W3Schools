@@ -31,3 +31,10 @@ def average(*args): # here we are passing a variable number of arguments, so we 
     print(type(args))
     return sum(args)/len(args)
 print(average(10,20,30,40,50)) # here we are passing 5 arguments, but we can pass any number of arguments while calling the function.
+
+
+def displayInfo(**kwargs): # here we are passing a variable number of keyword arguments, so we can pass any number of keyword arguments while calling the function.
+    print(type(kwargs))
+    for key, value in kwargs.items():
+        print(f"{key} : {value}")
+displayInfo(Name="Farhad", Age=25, City="New York") # here we are passing 3 keyword arguments, but we can pass any number of keyword arguments while calling the function
