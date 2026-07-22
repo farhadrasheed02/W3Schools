@@ -39,4 +39,5 @@ def displayInfo(**kwargs): # here we are passing a variable number of keyword ar
         print(f"{key} : {value}")
 displayInfo(Name="Farhad", Age=25, City="New York") # here we are passing 3 keyword arguments, but we can pass any number of keyword arguments while calling the function
 
+# variable length arguments can be used in combination with default and keyword arguments, but the order of the arguments should be followed as: default arguments, variable length arguments, keyword arguments.
 
