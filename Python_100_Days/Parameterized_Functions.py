@@ -38,3 +38,5 @@ def displayInfo(**kwargs): # here we are passing a variable number of keyword ar
     for key, value in kwargs.items():
         print(f"{key} : {value}")
 displayInfo(Name="Farhad", Age=25, City="New York") # here we are passing 3 keyword arguments, but we can pass any number of keyword arguments while calling the function
+
+
