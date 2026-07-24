@@ -15,3 +15,7 @@ arr_1 = arr.array('i',(1, 2, 3, 4, 5))  # creating an array of integers
 print(type(arr_1))  # printing the type of the array
 print("Array:", arr_1)
 
+
+lst = [i for i in range(1, 10)] #List comprehension to create a list of numbers from 1 to 9
+print(lst)
+
