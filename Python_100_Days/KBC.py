@@ -13,6 +13,7 @@ questions = [
     }
 ]
 
+print("Welcome to Kaun Banega Crorepati!")
 level = [0, 1,2,3,4]
 for i in range(0, len(questions)):
     print(f"Question {i + 1}: {questions[i]['question']}")
