@@ -15,3 +15,4 @@ print(f"The product of {num_1} and {num_2} is: {mult_result}")
 div_result = func.division(num_1, num_2)
 if div_result is not None:
     print(f"The division of {num_1} by {num_2} is: {div_result}")
+
