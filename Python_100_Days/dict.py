@@ -21,3 +21,11 @@ dic = {
 for key,val in dic.items():  #items() → returns tuples (key, value) so you can unpack both at once.
         print(f"{key} : {val}")
 # print(json.loads(val)) # JSON(avaScript Object Notation)
+
+for key in dic.keys():
+    print(f"The value corresponding to the {key} is : ",dic[key])
+
+dic.update({"Place":"Drass"}) # If the key updating already existed then it will be overwritten else updated.
+print(dic.items())
+dic.clear()
+print(dic.items())
