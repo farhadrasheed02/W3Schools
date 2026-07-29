@@ -25,3 +25,6 @@ try:
         print(l[a+2])
 except IndexError:
     print("Index Error")
+
+finally:
+    print("I am ")
