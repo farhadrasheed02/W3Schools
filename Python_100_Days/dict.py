@@ -29,3 +29,4 @@ dic.update({"Place":"Drass"}) # If the key updating already existed then it will
 print(dic.items())
 dic.clear()
 print(dic.items())
+dic.update()
