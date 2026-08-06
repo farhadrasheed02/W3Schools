@@ -33,6 +33,11 @@ def Fibonacci(n):
         return 0
     return Fibonacci(n-1) + Fibonacci(n-2)
 
+def Welcome():
+    print("Welcome Farhad")
+
+if __name__ == "__main__":
+    Welcome()
 
 
 
